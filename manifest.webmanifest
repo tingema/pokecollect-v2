@@ -1,0 +1,9 @@
+{
+  "name": "PokéCollect V2",
+  "short_name": "PokéCollect",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0e1713",
+  "theme_color": "#101b16",
+  "lang": "fr"
+}
